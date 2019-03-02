@@ -1,0 +1,86 @@
+.main_container{
+	background-color: black;
+	margin:0 auto;
+	min-height: 800px;
+	width:800px;
+}
+
+.top_bar{
+	
+	width:800px;
+	min-height: 50px;
+	overflow: hidden;
+}
+
+
+
+.logo{
+	background-color: yellow;
+	width:50%;
+	
+	float: left;
+
+
+}
+.navigation{
+	background-color: yellow;
+	width:49%;
+	float:right;
+	
+
+
+}
+
+.Header{
+background-color: yellow;
+	width:100%;
+	min-height:150px;
+
+}
+
+.text_area{
+background-color: yellow;
+	width:100%;
+	min-height:100px;
+
+}
+
+.box_area{
+	min-height: 310px;
+	overflow: hidden;
+	width: 800px;
+}
+
+.Box1{
+	min-height: 300px;
+	width:30%;
+	background-color: yellow;
+	float: left;
+
+}
+
+.Box2{
+	min-height: 300px;
+	width:30%;
+	background-color: yellow;
+	float: left;
+	margin-left: 40px;
+
+}
+
+.Box3{
+	min-height: 300px;
+	width:30%;
+	background-color: yellow;
+	float: right;
+
+}
+
+.footer{
+	width: 800px;
+	min-height:100px;
+	background-color: yellow;
+	
+}
+
+
